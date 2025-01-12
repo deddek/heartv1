@@ -19,5 +19,5 @@ cd /sdcard/Download/heartv1
 ```
 **4° Comando**
 ```
-npm start
+node main.js
 ```
